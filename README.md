@@ -1,2 +1,2 @@
 # Theoretical Mechanics labs
-## Files named code.py contains practical lessons materials
+## Files named code.py contain practical lessons materials
